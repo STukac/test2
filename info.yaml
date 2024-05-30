@@ -33,7 +33,7 @@ pinout:
   uo[0]: "hf"
   uo[1]: "ndtd"
   uo[2]: "bdr"
-  uo[3]: "bdrb"
+  uo[3]: "bdr"
   uo[4]: "bdb"
   uo[5]: "sgedsr"
   uo[6]: "gsegs"
