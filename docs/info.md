@@ -13,7 +13,7 @@ Explain not default
 
 ## How to test
 
-Explain how to use your project
+Simply add bits
 
 ## External hardware
 
